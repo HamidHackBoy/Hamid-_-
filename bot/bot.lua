@@ -226,7 +226,7 @@ function load_gbans( )
   local gbans = loadfile ("./data/gbans.lua")()
   return gbans
 end
-
+bot/seedbot
 -- Create a basic config.json file and saves it.
 function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
